@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="welcom">Welcom!</string>
+    <string name="loginimage">loginImage</string>
+    <string name="username_full_name">Username full name</string>
+    <string name="update">Update</string>
+    <string name="btncamera">btnCamera</string>
+</resources>
